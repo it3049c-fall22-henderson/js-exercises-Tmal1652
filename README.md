@@ -9,15 +9,17 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 ```md
 - [x] This task is complete.
 ```
-- [ ] All Unit tests passed.
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] All Unit tests passed.
+- [x] filled out the self-evaluation.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
 (For this assignment, there was 22 exercises checked by 68 automated checks)
 how many points out of 20 do you deserve on this assignment:
-
+20/20 points for this asignment 
 ## Self-Reflection:
 <!-- What did you learn that you found interesting -->
+I learned alot about this assignment. I found the instructions to be very useful and help guide me through getting the assignment done.
 
 ### How long it took you to finish this?
+About an hour 
